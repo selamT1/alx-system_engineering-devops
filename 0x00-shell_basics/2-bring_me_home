@@ -1,2 +1,2 @@
-#!/bin/bash
-echo "$(cd ~) $(pwd)"
+#!/bin/env bash
+cd ~ 
